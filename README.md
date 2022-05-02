@@ -6,7 +6,7 @@ In this project, I use data from the file `data.js`. It contains a list of objec
 ## Install dependencies
 In order to clone the repo, open your terminal and type: 
 
-    git clone https://github.com/salmakld/Airbnb-clone-with-react.git
+    git clone https://github.com/salmakld/Airbnb-Experiences.git
 
 To install the required dependencies, cd into `Airbnb-Experiences` and type:
     
